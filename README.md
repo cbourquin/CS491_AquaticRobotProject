@@ -1,6 +1,7 @@
 # CS491_AquaticRobotProject
 
-To ssh into Boat: 
+To ssh into Boat:
+----------------- 
 1. power on boat
 2. connect to the boats wifi 
 3. use command: ssh boat@10.42.0.1
