@@ -1,0 +1,8 @@
+prefix=/home/boat/catkin_ws/install
+
+Name: um7
+Description: Description of um7
+Version: 0.0.3
+Cflags: -I/home/boat/catkin_ws/install/include
+Libs: -L/home/boat/catkin_ws/install/lib 
+Requires: message_runtime

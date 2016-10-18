@@ -1,0 +1,8 @@
+prefix=/home/boat/catkin_ws/devel
+
+Name: um7
+Description: Description of um7
+Version: 0.0.3
+Cflags: -I/home/boat/catkin_ws/devel/include -I/home/boat/catkin_ws/src/um7/include
+Libs: -L/home/boat/catkin_ws/devel/lib 
+Requires: message_runtime
